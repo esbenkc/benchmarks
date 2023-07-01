@@ -1,4 +1,4 @@
-# 📊 Benchmarks for safety
+# \[[See the project that was worked on during this hackathon](https://github.com/esbenkc/ai-cyberdefense)\] 📊 Benchmarks for safety
 
 A submission to the [9th Alignment Jam on Safety Benchmarks](https://alignmentjam.com/jam/benchmarks).
 
